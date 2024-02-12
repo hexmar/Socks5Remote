@@ -1,0 +1,3 @@
+[submodule "submodules/Socks5"]
+	path = submodules/Socks5
+	url = https://github.com/zacbre/Socks5.git
